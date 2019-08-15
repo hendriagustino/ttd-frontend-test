@@ -4,6 +4,7 @@ ttd-frontend-test is basically a technical coding test project where I build the
 
 ## Snapshot of Web App : 
 ![snap.png](images/snap.png)
+
 Above, I do a search for the keyword "spiderman" and then the web app return us back the data fetched from API after going through sorting ascendingly before printing it out on the page.
 
 
